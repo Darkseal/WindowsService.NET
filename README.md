@@ -1,5 +1,5 @@
 # WindowsService.NET
-A sample Windows Service (.NET Framework) C# boilerplate
+A sample Windows Service (.NET Framework) C# boilerplate - born from [this](https://www.ryadel.com/en/create-windows-service-asp-net-c-sharp-how-to-tutorial-guide/) post.
 
 ## Introduction
 
